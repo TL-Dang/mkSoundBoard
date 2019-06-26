@@ -1,0 +1,10 @@
+@font-face {
+    src: url(./assets/fonts/mortalkombat2.ttf);
+    font-family: mkii;
+}
+
+.paragraph {
+    font-size: 50px;
+    line-height: 60px;
+    font-family: mkii;
+}
